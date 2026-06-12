@@ -1,0 +1,6 @@
+@ApertaChequeAPI_HostAddress = http://localhost:5012
+
+GET {{ApertaChequeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
