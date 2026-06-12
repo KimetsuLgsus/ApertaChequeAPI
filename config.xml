@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lastpath>C:\AiDPS\Archivos procesar\14.11.2024 Pase correcto</Lastpath>
+  <PathImport>\\SRVRAPERTA791\ECLIPSe\Data\Common\Import\Waiting</PathImport>
+  <PathImg>C:\AiDPS\Imagenes</PathImg>
+  <PathDev>C:\AiDPS\Archivos procesar</PathDev>
+  <DevFileExt>TXT</DevFileExt>
+  <AppPath>C:\AiDPS\Programa de Importación\BNPPro1.exe</AppPath>
+  <SelDate>2026-06-10T00:00:00</SelDate>
+  <WorkSource>11</WorkSource>
+  <Transport>2</Transport>
+  <Site>1</Site>
+  <OriBank>139</OriBank>
+  <FnEntrante>export.txt</FnEntrante>
+  <FnDevolucion>Cks Devueltos - T+1 14.11.2024.txt</FnDevolucion>
+  <BusDatefromfile>false</BusDatefromfile>
+  <RenameProcessedFile>true</RenameProcessedFile>
+  <AutomaticProcess>false</AutomaticProcess>
+  <AddDateToIncleringPath>false</AddDateToIncleringPath>
+  <AddDateToReturnPath>false</AddDateToReturnPath>
+  <ShortDin>true</ShortDin>
+  <ImagenConPath>true</ImagenConPath>
+</Config>
